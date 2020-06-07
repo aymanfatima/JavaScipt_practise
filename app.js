@@ -585,4 +585,5 @@ var pop1 = lifo.pop();
 document.write('<br/> OUT:');
 document.write('<br/>', pop1);
 
-//TASK 15
+//TASK 15 
+//
